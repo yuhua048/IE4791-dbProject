@@ -1,2 +1,12 @@
 # IE4791-dbProject
-ddl: 25 March 2026
+group 5 member:
+
+Wu Yuhua
+
+Jiang Yiting
+
+Tan Jiaqing
+
+Jiang Haoyun
+
+
