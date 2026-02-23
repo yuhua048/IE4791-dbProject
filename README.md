@@ -9,7 +9,7 @@ Jiang Yiting
 
 Tan Jiaqing
 
-zou seak pang
+Zou Seak Pang
 
 db software: Microsoft Access
 
