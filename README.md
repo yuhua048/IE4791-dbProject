@@ -9,4 +9,6 @@ Tan Jiaqing
 
 Jiang Haoyun
 
+db software: Microsoft Access
 
+report software: Microsoft Word
